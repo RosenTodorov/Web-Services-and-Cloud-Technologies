@@ -1,0 +1,6 @@
+C:\Users\Lyubomir\Desktop\Teamwork\TravelWithMe.WebClient\TravelWithMe.WebClient\bin\TravelWithMe.WebClient.dll.config
+C:\Users\Lyubomir\Desktop\Teamwork\TravelWithMe.WebClient\TravelWithMe.WebClient\bin\TravelWithMe.WebClient.dll
+C:\Users\Lyubomir\Desktop\Teamwork\TravelWithMe.WebClient\TravelWithMe.WebClient\bin\TravelWithMe.WebClient.pdb
+C:\Users\Lyubomir\Desktop\Teamwork\TravelWithMe.WebClient\TravelWithMe.WebClient\obj\Debug\TravelWithMe.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Lyubomir\Desktop\Teamwork\TravelWithMe.WebClient\TravelWithMe.WebClient\obj\Debug\TravelWithMe.WebClient.dll
+C:\Users\Lyubomir\Desktop\Teamwork\TravelWithMe.WebClient\TravelWithMe.WebClient\obj\Debug\TravelWithMe.WebClient.pdb

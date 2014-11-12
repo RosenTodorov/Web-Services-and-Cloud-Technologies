@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\New folder\04. WCF\01. DatePicker.Services\bin\Debug\DatePicker.Services.dll.config
+C:\Users\user\Desktop\New folder\04. WCF\01. DatePicker.Services\bin\Debug\DatePicker.Services.dll
+C:\Users\user\Desktop\New folder\04. WCF\01. DatePicker.Services\bin\Debug\DatePicker.Services.pdb
+C:\Users\user\Desktop\New folder\04. WCF\01. DatePicker.Services\obj\Debug\01. DatePicker.Services.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\04. WCF\01. DatePicker.Services\obj\Debug\DatePicker.Services.dll
+C:\Users\user\Desktop\New folder\04. WCF\01. DatePicker.Services\obj\Debug\DatePicker.Services.pdb

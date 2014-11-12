@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TravelWithMe.Web/bin
+/TravelWithMe.Web/obj/Debug
+/TravelWithMe.Models/bin/Debug
+/TravelWithMe.Models/obj/Debug
+/TravelWithMe.Data/bin/Debug
+/TravelWithMe.Data/obj/Debug
+/packages/Antlr.3.4.1.9004
+/packages/bootstrap.3.0.0
+/packages/EntityFramework.6.1.1
+/packages/jQuery.1.10.2
+/packages/jQuery.Validation.1.11.1
+/packages/Microsoft.AspNet.Identity.Core.2.1.0
+/packages/Microsoft.AspNet.Identity.EntityFramework.2.1.0
+/packages
